@@ -17,6 +17,12 @@ You will now be inside your new branch! Need to get back?
 
 PS - there are other options you can do with this. Be sure to checkout documentation.
 
+## How Do I Push My New Branch To GitHub?
+
+Run this command:  `git push -u REMOTENAME BRANCHNAME`
+
+If it's your repo, default REMOTENAME is origin.
+
 ## How Do I:  Create An Upstream To My Branch On GitHub?
 
 If you try to run `git pull` from a branch that does not have an upstream, you will get an error similar to this:
