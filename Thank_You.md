@@ -23,3 +23,7 @@ Documentation. ^_^
 ## StackOverflow
 
 - [git stash](https://git-scm.com/docs/git-stash) explanation
+
+## Testing
+
+- [doctest](https://docs.python.org/3.6/library/doctest.html)
