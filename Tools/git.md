@@ -56,6 +56,26 @@ If you have your upstream setup, then just run:  `git push REMOTENAME BRANCHNAME
 Where __REMOTENAME__ is the name given to your remote location (default is _origin_)...
 And **BRANCHNAME** is the name of your branch.
 
+# Commit
+
+After you've added files to your staging, you now need to commit the changes.
+
+## How Do I Commit My Code?
+
+Run this command:  `git commit`
+
+If set up properly, it will open your code editor for you to write a message.
+
+Otherwise, run:  `git commit -m "Some message here"`
+
+## How Do I Undo My Last Commit?
+
+If you have not yet pushed to your server, you can follow these commands as per [this StackOverflow](https://stackoverflow.com/a/927386/10474024):
+
+1. `git reset HEAD~`
+
+You can now make changes, stash, etc.
+
 # Remote
 
 This refers to your remote repo - like GitHub.
