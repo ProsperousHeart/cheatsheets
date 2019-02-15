@@ -23,6 +23,11 @@ Run this command:  `git push -u REMOTENAME BRANCHNAME`
 
 If it's your repo, default REMOTENAME is origin.
 
+PS - If you do this, then the subsequent pushes don't need the `-u` anymore:
+```
+git push REMOTENAME BRANCHNAME
+```
+
 ## How Do I:  Create An Upstream To My Branch On GitHub?
 
 If you try to run `git pull` from a branch that does not have an upstream, you will get an error similar to this:
