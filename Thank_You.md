@@ -38,9 +38,4 @@ Documentation. ^_^
 
 - RealPython's Primer For [Virtual Environment](https://realpython.com/python-virtual-environments-a-primer/)
 - Geeks For Geeks' [Python Virtual Environment Into](https://www.geeksforgeeks.org/python-virtual-environment/)
-||||||| merged common ancestors
-=======
-
-## Virtual Environments
 - https://pip.pypa.io/en/stable/quickstart/
->>>>>>> Stashed changes
