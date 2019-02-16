@@ -27,3 +27,8 @@ Documentation. ^_^
 ## Testing
 
 - [doctest](https://docs.python.org/3.6/library/doctest.html)
+
+## Virtual Environments
+
+- RealPython's Primer For [Virtual Environment](https://realpython.com/python-virtual-environments-a-primer/)
+- Geeks For Geeks' [Python Virtual Environment Into](https://www.geeksforgeeks.org/python-virtual-environment/)
