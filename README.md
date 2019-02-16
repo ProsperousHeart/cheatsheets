@@ -27,7 +27,9 @@ At the moment I am still working on this. But as it grows, the tree will begin t
 
 1. [Tools](https://github.com/ProsperousHeart/cheatsheets/tree/master/Tools)
   a. [git](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md)
-  b. [Testing](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Testing.md)
+  b. pip
+  c. [Testing](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Testing.md)
+  d. Virtual Environments
 2. [README](https://github.com/ProsperousHeart/cheatsheets/blob/master/README.md)
 3. [Thank You](https://github.com/ProsperousHeart/cheatsheets/blob/master/Thank_You.md)
 
