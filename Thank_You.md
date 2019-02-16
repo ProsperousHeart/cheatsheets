@@ -28,6 +28,7 @@ Documentation. ^_^
 ## StackOverflow
 
 - [git stash](https://git-scm.com/docs/git-stash) explanation
+- [quit git diff](https://stackoverflow.com/a/7568823/10474024)
 
 ## Testing
 
