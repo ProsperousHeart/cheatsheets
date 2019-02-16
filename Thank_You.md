@@ -11,6 +11,7 @@ Documentation. ^_^
 ### git
 
 - [git stash](https://git-scm.com/docs/git-stash)
+- [how to undo a **git add FILENAME** or **git add .**](http://data.agaric.com/undo-git-add-remove-files-staged-git-commit)
 
 ### GitHub
 
