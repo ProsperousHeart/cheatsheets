@@ -89,6 +89,12 @@ Just run:  `git push --delete REMOTENAME BRANCHNAME`
 
 OR even:  `git push <remote_name> :<branch_name>`
 
+## How Do I Get My Branch On GitHub To My Local Branch?
+
+When in the working branch you wish to update, run: `git pull`
+
+This basically is a `git fetch` and `git merge` in one command.
+
 # Staging
 
 This is where you add changes to your staging area before committing your changes. This simply means git knows about the change but it is not a permanent change in your repo.

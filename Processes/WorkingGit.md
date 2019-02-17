@@ -3,6 +3,7 @@ When working with **git** there are some best practices.
 - when done, delete branch on server **and** locally (you can always recreate)
 
 # Steps For Working With Git
+
 1. [Create branch](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md#how-do-i--create-a-new-branch) from main
    - if done locally, you will need to:
      - create branch locally
@@ -19,4 +20,4 @@ When working with **git** there are some best practices.
 7. Checkout your **_master_** branch
 8. In git, run `git pull` and fix any merge issues. (Which there shouldn't be. If there are, fix and then do a `git push REMOTENAME master`)
 9. When done with branch, run:  `git checkout master`
-10`. Follow the steps to [delete your branch](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md#how-do-i-delete-my-branch).
+10. Follow the steps to [delete your branch](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md#how-do-i-delete-my-branch).
