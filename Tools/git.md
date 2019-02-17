@@ -69,6 +69,12 @@ If you have your upstream setup, then just run:  `git push REMOTENAME BRANCHNAME
 Where __REMOTENAME__ is the name given to your remote location (default is _origin_)...
 And **BRANCHNAME** is the name of your branch.
 
+## How Do I Get My Branch On GitHub To My Local Branch?
+
+When in the working branch you wish to update, run: `git pull`
+
+This basically is a `git fetch` and `git merge` in one command.
+
 ## How Do I Delete My Branch?
 
 [This](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely?rq=1) was an excellent explanation for both local and remote.
