@@ -60,6 +60,18 @@ And **BRANCHNAME** is the name of your branch.
 
 [This](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely?rq=1) was an excellent explanation for both local and remote.
 
+## How Do I Delete My Branch?
+
+### Locally
+
+Just run:  `git branch -d BRANCHNAME`
+
+### Remote
+
+Just run:  `git push --delete REMOTENAME BRANCHNAME`
+
+OR even:  `git push <remote_name> :<branch_name>`
+
 # Commit
 
 After you've added files to your staging, you now need to commit the changes.
