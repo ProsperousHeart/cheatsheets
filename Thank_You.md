@@ -8,6 +8,11 @@ TBD - but it's gonna happen. Cause ...
 
 Documentation. ^_^
 
+### Downloads
+
+- [Jupyter Notebook](https://jupyter.org/) - more specifically [here](https://jupyter.org/install.html)
+- [Anaconda](https://www.anaconda.com/distribution/)
+
 ### git
 
 - [git stash](https://git-scm.com/docs/git-stash)

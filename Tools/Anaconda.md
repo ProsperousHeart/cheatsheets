@@ -1,0 +1,5 @@
+# Why Use Anaconda Instead of Command Line?
+
+Anaconda conveniently installs commonly used packages for scientific computing and data science, including but not limited to:
+- python
+- Jupyter notebook
