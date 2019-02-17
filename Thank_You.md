@@ -20,6 +20,7 @@ Documentation. ^_^
 - [quit git diff](https://stackoverflow.com/a/7568823/10474024)
 - [difference between git fetch and git pull](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)
 - [quit diff or log](https://stackoverflow.com/a/7568823/10474024)
+- [git basic branching & merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 ### GitHub
 

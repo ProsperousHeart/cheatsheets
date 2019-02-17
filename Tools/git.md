@@ -12,6 +12,9 @@ This section will be used to cover working with branches
 2. Run the following command:  `git branch BRANCHNAME` (where BRANCHNAME is whatever branch you want to call it)
 3. Run the following command: `git checkout BRANCHNAME`
 
+Or if you know you'll be going straight into this new branch?
+Then all you need to do for 2 & 3 is run: `git branch -b BRANCHNAME`
+
 You will now be inside your new branch! Need to get back?
 `git checkout master`
 
