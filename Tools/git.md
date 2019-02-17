@@ -56,6 +56,10 @@ If you have your upstream setup, then just run:  `git push REMOTENAME BRANCHNAME
 Where __REMOTENAME__ is the name given to your remote location (default is _origin_)...
 And **BRANCHNAME** is the name of your branch.
 
+## How Do I Delete My Branch?
+
+[This](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely?rq=1) was an excellent explanation for both local and remote.
+
 # Commit
 
 After you've added files to your staging, you now need to commit the changes.
@@ -98,8 +102,44 @@ Run this command:  `git stash pop`
 
 Please see a more detailed explanation [here](https://git-scm.com/docs/git-stash).
 
-## How To Check Differences Between Remote And Local
+# How To Check Differences
+
+## For Local Files
+
+When you use `git status` you are able to see which files are changed in the working directory, but not the actual changes. That's where `git diff` comes in. It will show you **how** or what changes were made.
+
+This will show all current changes in working directory that have not yet been staged.
+
+## What About Local Staged Files?
+
+Just run: `git diff --staged`
+
+## And If They're Committed?
+
+Run `git log` to see overview of recent commits. You can add the **-p** flag to get the detailed "patches" (changes) of each commit.
+
+`git log -p`
+
+## Check For Difference Between Remote And Local
 
 Normally if you run `git fetch` you can get the remote's data without integration into your current code. You can then run `git merge` ...
 
 Or you can simply run `git fetch` which does both for you.
+
+Please see a more detailed explanation [here](https://git-scm.com/docs/git-stash).
+
+## How To Compare Branches
+
+Just run: `git diff BRANCH1..BRANCH2`
+
+## How To Compare Different Versions In A Branch
+
+Just run:  `git diff VERSION1..VERSION2`
+
+You can get this info from running: `git log`
+
+# How To Exit Diff Or Log
+
+Sometimes you get a long list of changes when running `git diff` or `git log`.
+
+So how do you quit? Just press: `q`
