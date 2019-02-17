@@ -97,3 +97,9 @@ Run this git command:  `git stash list`
 Run this command:  `git stash pop`
 
 Please see a more detailed explanation [here](https://git-scm.com/docs/git-stash).
+
+## How To Check Differences Between Remote And Local
+
+Normally if you run `git fetch` you can get the remote's data without integration into your current code. You can then run `git merge` ...
+
+Or you can simply run `git fetch` which does both for you.
