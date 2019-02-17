@@ -18,3 +18,8 @@ You can run one of the following from your terminal (depending on your python ve
 - `pip install jupyter`
 
 If you prefer to use [Anaconda](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Anaconda.md) this is best for beginners. Especially since it already has Jupyter AND python installed!
+
+# How Do I Start A Jupyter Notebook?
+
+1. In your Anaconda window or terminal, go to whatever folder you want to start at with the top level folder.
+2. Run this command:  `jupyter notebook`

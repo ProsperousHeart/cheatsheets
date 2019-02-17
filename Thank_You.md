@@ -35,6 +35,7 @@ Documentation. ^_^
 ### Python Specific Sites
 
 - Hitchhiker's Guide To Python:  [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/)
+- [Python 3 SEtup & Installation Guide](https://realpython.com/installing-python/)
 
 ## People & Specific GitHub Projects
 
