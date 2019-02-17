@@ -2,6 +2,25 @@
 
 Whether through a training or via hands on experience, this section will provide clear shortcuts to using git efficiently.
 
+# Clone
+
+## How Do I Clone A Repo From GitHub?
+
+1. Create a repo
+2. Get the HTTPS URL
+3. Using git, navigate to the folder you wish to clone it into
+4. Run this command where URL is the URL from GitHub:  `git clone URL`
+
+## Not All Of My Branches Were Cloned!
+
+[This article](https://stackoverflow.com/a/72156/10474024) explains it beautifully, but basically ...
+
+1. After you clone your repo, change into the directory.
+2. If you run `git branch` you may be missing some. To see all run: `git branch -a`
+3. To peek at upstream branch, run `git checkout origin/BRANCH` ... But if you want to work in it run:  `git checkout BRANCHNAME`
+
+This will now be on your local machine.
+
 # Branch
 
 This section will be used to cover working with branches
