@@ -13,6 +13,8 @@ Documentation. ^_^
 - [git stash](https://git-scm.com/docs/git-stash)
 - [how to undo a **git add FILENAME** or **git add .**](http://data.agaric.com/undo-git-add-remove-files-staged-git-commit)
 - [git fetch](https://git-scm.com/docs/git-fetch)
+- how to [check the difference between changes for a file](https://stackoverflow.com/questions/10039747/how-to-view-file-diff-in-git-before-commit) before or after a commit
+- how to [delete branch locally or on server](https://stackoverflow.com/a/2003515/10474024)
 
 ### GitHub
 
