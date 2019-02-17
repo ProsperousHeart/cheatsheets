@@ -12,6 +12,7 @@ Documentation. ^_^
 
 - [git stash](https://git-scm.com/docs/git-stash)
 - [how to undo a **git add FILENAME** or **git add .**](http://data.agaric.com/undo-git-add-remove-files-staged-git-commit)
+- [git fetch](https://git-scm.com/docs/git-fetch)
 
 ### GitHub
 
@@ -29,11 +30,11 @@ Documentation. ^_^
 
 - [git stash](https://git-scm.com/docs/git-stash) explanation
 - [quit git diff](https://stackoverflow.com/a/7568823/10474024)
+- [difference between git fetch and git pull](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)
 
 ## Testing
 
 - [doctest](https://docs.python.org/3.6/library/doctest.html)
-<<<<<<< Updated upstream
 
 ## Virtual Environments
 
