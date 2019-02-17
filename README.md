@@ -27,11 +27,14 @@ At the moment I am still working on this. But as it grows, the tree will begin t
 
 1. [Tools](https://github.com/ProsperousHeart/cheatsheets/tree/master/Tools)
    - [git](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md)
-   - pip
+   - [Misc](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Misc.md)
+   - [pip](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/pip.md)
    - [Testing](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Testing.md)
-   - Virtual Environments
-2. [README](https://github.com/ProsperousHeart/cheatsheets/blob/master/README.md)
-3. [Thank You](https://github.com/ProsperousHeart/cheatsheets/blob/master/Thank_You.md)
+   - [Virtual Environments](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/VirtualEnvironments.md)
+2. [Processes](https://github.com/ProsperousHeart/cheatsheets/tree/master/Processes)
+   - [Working With Git](https://github.com/ProsperousHeart/cheatsheets/blob/master/Processes/WorkingGit.md)
+3. [README](https://github.com/ProsperousHeart/cheatsheets/blob/master/README.md)
+4. [Thank You](https://github.com/ProsperousHeart/cheatsheets/blob/master/Thank_You.md)
 
 Happy Coding!
 - Kassandra from [Learn To Code Online](http://www.learntocodeonline.com)
