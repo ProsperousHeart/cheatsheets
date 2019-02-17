@@ -15,6 +15,11 @@ Documentation. ^_^
 - [git fetch](https://git-scm.com/docs/git-fetch)
 - how to [check the difference between changes for a file](https://stackoverflow.com/questions/10039747/how-to-view-file-diff-in-git-before-commit) before or after a commit
 - how to [delete branch locally or on server](https://stackoverflow.com/a/2003515/10474024)
+- [git diff](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/diffs) explanation
+- [git stash](https://git-scm.com/docs/git-stash) explanation
+- [quit git diff](https://stackoverflow.com/a/7568823/10474024)
+- [difference between git fetch and git pull](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)
+- [quit diff or log](https://stackoverflow.com/a/7568823/10474024)
 
 ### GitHub
 
@@ -27,12 +32,6 @@ Documentation. ^_^
 ## People & Specific GitHub Projects
 
 - [jmcnamara](https://github.com/jmcnamara) of [XlsxWriter](https://github.com/jmcnamara/XlsxWriter), the 2nd GitHub passion project I've found and wanted to contribute to (and partial inspiration for the [README](https://github.com/ProsperousHeart/cheatsheets/blob/master/README.md))
-
-## StackOverflow
-
-- [git stash](https://git-scm.com/docs/git-stash) explanation
-- [quit git diff](https://stackoverflow.com/a/7568823/10474024)
-- [difference between git fetch and git pull](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)
 
 ## Testing
 
