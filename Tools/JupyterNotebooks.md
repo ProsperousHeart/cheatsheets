@@ -17,4 +17,4 @@ You can run one of the following from your terminal (depending on your python ve
 - `pip3 install jupyter`
 - `pip install jupyter`
 
-If you prefer to use [Anaconda](https://www.anaconda.com/distribution/) this is best for beginners. Especially since it already has Jupyter AND python installed!
+If you prefer to use [Anaconda](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Anaconda.md) this is best for beginners. Especially since it already has Jupyter AND python installed!
