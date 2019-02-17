@@ -20,6 +20,14 @@ You will now be inside your new branch! Need to get back?
 
 PS - there are other options you can do with this. Be sure to checkout documentation.
 
+## How Do I Know What Branches I Currently Have?
+
+Just run: `git branch`
+
+## How Do I Move Between Branches?
+
+Just run: `git checkout BRANCHNAME`
+
 ## How Do I Push My New Branch To GitHub?
 
 Run this command:  `git push -u REMOTENAME BRANCHNAME`
@@ -52,6 +60,8 @@ In this instance, it would look like:  `git branch --set-upstream-to=origin/than
 
 What this does is that it allows you to pull down changes made directly to your branch on GitHub.
 
+Or you can just [follow the above suggestion](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md#how-do-i-push-my-new-branch-to-github).
+
 ## How Do I Get My Branch From Local To Remote Git?
 
 If you have your upstream setup, then just run:  `git push REMOTENAME BRANCHNAME`
@@ -72,6 +82,22 @@ Just run:  `git branch -d BRANCHNAME`
 Just run:  `git push --delete REMOTENAME BRANCHNAME`
 
 OR even:  `git push <remote_name> :<branch_name>`
+
+# Staging
+
+This is where you add changes to your staging area before committing your changes. This simply means git knows about the change but it is not a permanent change in your repo.
+
+## How Do I Add Files/Folders To Staging?
+
+To add a single file: `git add FILENAME`
+
+To add a folder:  `git add FOLDERNAME`
+
+To add all changes: `git add .`
+
+## How Do I Remove Them From Staging?
+
+Just ru the following to remove all changes:  `git reset HEAD~`
 
 # Commit
 
