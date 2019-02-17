@@ -4,9 +4,16 @@ When working with **git** there are some best practices.
 
 # Steps For Working With Git
 1. [Create branch](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md#how-do-i--create-a-new-branch) from main
+   - if done locally, you will need to:
+     - create branch locally
+     - [push to GitHub](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md#how-do-i-push-my-new-branch-to-github)
+   - if done on GitHub, you will need to:
+     - create branch on GitHub
+     - on local git, ensure you're working on **master** branch
+     - pull from remote
 2. Perform your work
-3. Add changes to git staging
-4. Commit changes
+3. Add changes to git [staging](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md#staging)
+4. [Commit](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md#commit) changes
 5. Push to remote branch (not origin)
 6. Request pull on GitHub to merge into __master__
 7. Checkout your **_master_** branch
