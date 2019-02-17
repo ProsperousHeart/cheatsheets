@@ -26,7 +26,9 @@ Have something to share? Please create an issue first and then follow the normal
 At the moment I am still working on this. But as it grows, the tree will begin to form. And you will be able to access whatever your heart desires & is available here.
 
 1. [Tools](https://github.com/ProsperousHeart/cheatsheets/tree/master/Tools)
+   - [Anaconda](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Anaconda.md)
    - [git](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md)
+   - [Jupyter notebooks](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/JupyterNotebooks.md)
    - [Misc](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Misc.md)
    - [pip](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/pip.md)
    - [Testing](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Testing.md)
