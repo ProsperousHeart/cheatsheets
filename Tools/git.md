@@ -60,8 +60,6 @@ And **BRANCHNAME** is the name of your branch.
 
 [This](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely?rq=1) was an excellent explanation for both local and remote.
 
-## How Do I Delete My Branch?
-
 ### Locally
 
 Just run:  `git branch -d BRANCHNAME`
