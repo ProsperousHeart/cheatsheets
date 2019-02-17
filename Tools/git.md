@@ -58,7 +58,7 @@ PS - If you do this, then the subsequent pushes don't need the `-u` anymore:
 git push REMOTENAME BRANCHNAME
 ```
 
-## How Do I:  Create An Upstream To My Branch On GitHub?
+## How Do I Create An Upstream To My Branch On GitHub?
 
 If you try to run `git pull` from a branch that does not have an upstream, you will get an error similar to this:
 
@@ -153,6 +153,20 @@ You can now make changes, stash, etc.
 # Remote
 
 This refers to your remote repo - like GitHub.
+
+## How Can I Get Information About The Remote?
+
+[This](https://stackoverflow.com/a/4089452/10474024) did a great job of explaining.
+
+Assuming referential integrity broken (or you just want the URL): `git config --get remote.origin.url`
+
+Assuming referential integrity is in tact or you require full output: `git remote show origin`
+
+When using `git clone` the default name for source is **origin** and using the following command will display info about this remote name:  `git remote show`
+
+This **_show_** command will let you know the names of all the remotes you have for the current branch.
+
+The following will show all for your specified branch (like origin):  `git remote show BRANCHNAME`
 
 # Stash
 
