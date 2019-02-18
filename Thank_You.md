@@ -52,3 +52,4 @@ Documentation. ^_^
 - RealPython's Primer For [Virtual Environment](https://realpython.com/python-virtual-environments-a-primer/)
 - Geeks For Geeks' [Python Virtual Environment Into](https://www.geeksforgeeks.org/python-virtual-environment/)
 - https://pip.pypa.io/en/stable/quickstart/
+- [Hitchhiker's Guide](https://docs.python-guide.org/dev/virtualenvs/#virtualenvwrapper) for virtualenvwrapper

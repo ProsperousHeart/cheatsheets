@@ -10,6 +10,8 @@ But why make it hard on yourself?
 
 The number of virtual environments is limited only to the capacity of your machine.
 
+By default, the option `--no-site-packages` is used so it does not include global packages.
+
 # How Can I Create A Virtual Environment?
 
 There are many ways to do so, but two of the most widely used are [virtualvenv](https://virtualenv.readthedocs.io/en/latest/).
@@ -67,6 +69,12 @@ source ENVNAME/bin/activate
 
 Yes! Check out the Misc file for pipenv.
 
+# What If I Want To Use A Different Version?
+
+To just use a specific version for a single project:  `virtualenv -p /usr/bin/python2.7 venv` (for v2.7)
+
+To change globally (I caution to avoid this) you can do:  `export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python2.7`
+
 # Good To Knows
 
 Again, checkout [this](https://realpython.com/python-virtual-environments-a-primer/) post for more info ...
@@ -89,3 +97,11 @@ git clone git://github.com/davidmarble/virtualenvwrapper-win.git
 cd virtualenvwrapper-win
 python setup.py install   # or pip install .
 ```
+
+# Is There An Easier Way To Work With This?
+
+Once installed, you can actually use the [virtualenvwrapper](https://docs.python-guide.org/dev/virtualenvs/#virtualenvwrapper) that does make things a bit easier.
+
+It provides a set of commands which makes working with virtual environments much more pleasant & places all your virtual environments in one place. (Makes it easier to manage instead of having them in all of your project folders.)
+
+Please see the virtualenvs process doc for steps to install and use.
