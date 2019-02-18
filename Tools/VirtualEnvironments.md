@@ -104,4 +104,8 @@ Once installed, you can actually use the [virtualenvwrapper](https://docs.python
 
 It provides a set of commands which makes working with virtual environments much more pleasant & places all your virtual environments in one place. (Makes it easier to manage instead of having them in all of your project folders.)
 
-Please see the virtualenvs process doc for steps to install and use.
+Please see the [virtualenvs process doc](https://github.com/ProsperousHeart/cheatsheets/blob/master/Processes/virtualenvs.md) for steps to install and use.
+
+You can also do virtualenv + virtualenvwrapper in one using [virtualenv-burrito](https://docs.python-guide.org/dev/virtualenvs/#virtualenv-burrito).
+
+One last thing - if you want to automatically activate the environment in a directory when you `cd` into it, you'll want to [check out autoenv](https://docs.python-guide.org/dev/virtualenvs/#autoenv) or even [direnv](https://direnv.net/).
