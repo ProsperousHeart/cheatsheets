@@ -65,3 +65,50 @@ For fancier commands, check out the [original MD file](https://github.com/Prospe
 10. To delete you just need to delete the folder of the venv: `rm -rf NAME`
 
 # virtualenvwrapper
+
+**virtualenvwrapper** provides tab-completion on environment names. It really helps when you have a lot of environments and have trouble remembering their names.
+
+`workon` also deactivates whatever environment you are currently in, so you can quickly switch between environments.
+
+## Setup
+
+1. Ensure that python, pip, and virtualenv are installed.
+
+2. Install the wrapper (full instructions [here](https://virtualenvwrapper.readthedocs.io/en/latest/install.html))
+   - linux:
+     ```
+     $ pip install virtualenvwrapper
+     $ export WORKON_HOME=~/Envs
+     $ source /usr/local/bin/virtualenvwrapper.sh
+     ```
+   - PC (default PATH for WORKON_HOME is %USERPROFILE%\Envs):  `pip install virtualenvwrapper-win`
+
+## Usage - Create & Work On
+
+### Standard
+
+1. Create a venv: `mkvirtualenv VENVNAME`
+
+   This creates the VENVNAME folder inside `~/Envs`.
+
+2. Work on the virtual environment: `workon VENVNAME`
+
+### Alternative
+
+You can make a project, which creates the virtual environment, and also a project directory inside `$WORKON_HOME`, which is `cd`-ed into when you `workon PROJECTNAME`.
+
+1. Create project:  `mkproject PROJECTNAME`
+
+2. Work on the virtual project: `workon PROJECTNAME`
+
+## Usage - Deactivate
+
+It's still the same:  `deactivate`
+
+## Usage - Delete
+
+To delete a virtual environment, run: `rmvirtualenv venv`
+
+To delete a virtual project, (I believe - couldn't find documentation on it) run: `rmproject venv`
+
+Additional items can be found [here](https://howchoo.com/g/nwewzjmzmjc/a-guide-to-python-virtual-environments-with-virtualenvwrapper).

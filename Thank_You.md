@@ -53,3 +53,5 @@ Documentation. ^_^
 - Geeks For Geeks' [Python Virtual Environment Into](https://www.geeksforgeeks.org/python-virtual-environment/)
 - https://pip.pypa.io/en/stable/quickstart/
 - [Hitchhiker's Guide](https://docs.python-guide.org/dev/virtualenvs/#virtualenvwrapper) for virtualenvwrapper
+- [virtualenvwrapper project directory management](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#project-directory-management)
+- [virtual environments](https://howchoo.com/g/nwewzjmzmjc/a-guide-to-python-virtual-environments-with-virtualenvwrapper)
