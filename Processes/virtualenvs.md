@@ -85,6 +85,8 @@ For fancier commands, check out the [original MD file](https://github.com/Prospe
 
 ## Usage - Create & Work On
 
+I will provide two options - and highly suggest the 2nd.
+
 ### Standard
 
 1. Create a venv: `mkvirtualenv VENVNAME`
@@ -113,11 +115,17 @@ You can make a project, which creates the virtual environment, and also a projec
 
    This is because prior to this, you did not yet have the Envs folder that is used to store these virtual environments.
 
-2. Work on the virtual project: `workon PROJECTNAME`
+   Since you do not have to be in the root of your project folder to do this, you can run while in any directory. This will (by default) also activate the environment.
 
-## Usage - Deactivate
+2. Set your project directory by creating or navigating to the root folder of your project and then run:  `setprojectdir`
 
-It's still the same:  `deactivate`
+   When you set your project directory, the next time you activate your virtual environment it will:
+   - activate the virtual environment
+   - automatically move into this directory
+
+3. To deactivate: `deactivate`
+
+You can activate your virtual project to work on things again by running: `workon PROJECTNAME`
 
 ## Usage - Delete
 
