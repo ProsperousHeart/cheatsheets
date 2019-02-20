@@ -99,6 +99,20 @@ You can make a project, which creates the virtual environment, and also a projec
 
 1. Create project:  `mkproject PROJECTNAME`
 
+   The first time you run this, you will see a similar message:
+   ```
+   (base) C:\Users\Kat\Documents\SOME_DIRECTORY>mkvirtualenv xlsxwriter-autofit0
+   C:\Users\Kat\Envs is not a directory, creating
+   Using base prefix 'c:\\programdata\\anaconda3'
+   New python executable in C:\Users\Kat\Envs\xlsxwriter-autofit0\Scripts\python.exe
+   Installing setuptools, pip, wheel...
+   done.
+
+   (xlsxwriter-autofit0) (base) C:\Users\Kat\Documents\Programming\repo\Personal-Projects\xlsxwriter-autofit>
+   ```
+
+   This is because prior to this, you did not yet have the Envs folder that is used to store these virtual environments.
+
 2. Work on the virtual project: `workon PROJECTNAME`
 
 ## Usage - Deactivate
