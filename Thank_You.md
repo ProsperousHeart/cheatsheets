@@ -45,6 +45,10 @@ Documentation. ^_^
 
 - [jmcnamara](https://github.com/jmcnamara) of [XlsxWriter](https://github.com/jmcnamara/XlsxWriter), the 2nd GitHub passion project I've found and wanted to contribute to (and partial inspiration for the [README](https://github.com/ProsperousHeart/cheatsheets/blob/master/README.md))
 
+## Setups
+
+- [This blog](http://www.zaxrosenberg.com/python-virtual-environments-on-windows/) is about setting up your environment variables
+
 ## Testing
 
 - [doctest](https://docs.python.org/3.6/library/doctest.html)
@@ -58,3 +62,5 @@ Documentation. ^_^
 - [virtualenvwrapper project directory management](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#project-directory-management)
 - [virtual environments](https://howchoo.com/g/nwewzjmzmjc/a-guide-to-python-virtual-environments-with-virtualenvwrapper)
 - Timmy Reilly's [Pip & Virtualenv Install On Windows](http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/)
+- Virtualenvwrapper [PDF](https://media.readthedocs.org/pdf/virtualenvwrapper/stable/virtualenvwrapper.pdf) (mostly used for python environment variable setup)
+- Medium article on [Configuring Python Environment With Virtual Wrapper](https://medium.com/the-andela-way/configuring-python-environment-with-virtualenvwrapper-8745c2895745)

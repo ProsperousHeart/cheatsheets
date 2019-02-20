@@ -134,3 +134,19 @@ To delete a virtual environment, run: `rmvirtualenv venv`
 To delete a virtual project, (I believe - couldn't find documentation on it) run: `rmproject venv`
 
 Additional items can be found [here](https://howchoo.com/g/nwewzjmzmjc/a-guide-to-python-virtual-environments-with-virtualenvwrapper).
+
+## Usage - Duplicate A Virtual Environment
+
+There may come a time where you wish to duplicate a virtual environment.
+
+Thanks to [this medium post](https://medium.com/the-andela-way/configuring-python-environment-with-virtualenvwrapper-8745c2895745) here's how.
+
+`cpvirtualenv ENVNAME TARGETENVNAME`
+
+# Where Else Can I Learn About virtualenvwrapper
+
+By reading [the docs](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html).
+
+# I Got An Error About PROJECT_HOME Not Being Setup!
+
+Likely you need to set up your environment variables. Checkout the [SetEnvVars](https://github.com/ProsperousHeart/cheatsheets/blob/master/Processes/SetEnvVars.md) doc to see the steps I took to resolve on my Windows machine.
