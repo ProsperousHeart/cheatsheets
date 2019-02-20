@@ -150,3 +150,5 @@ By reading [the docs](https://virtualenvwrapper.readthedocs.io/en/latest/command
 # I Got An Error About PROJECT_HOME Not Being Setup!
 
 Likely you need to set up your environment variables. Checkout the [SetEnvVars](https://github.com/ProsperousHeart/cheatsheets/blob/master/Processes/SetEnvVars.md) doc to see the steps I took to resolve on my Windows machine.
+
+Basically [this StackOverflow](https://stackoverflow.com/a/21301852/10474024) response was probably the only thing that needed to be done.

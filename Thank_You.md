@@ -13,6 +13,10 @@ Documentation. ^_^
 - [Jupyter Notebook](https://jupyter.org/) - more specifically [here](https://jupyter.org/install.html)
 - [Anaconda](https://www.anaconda.com/distribution/)
 
+### Environment Variables
+
+- [how to set an environment variable](https://stackoverflow.com/a/21301852/10474024)
+
 ### git
 
 - [git stash](https://git-scm.com/docs/git-stash)
