@@ -57,3 +57,4 @@ Documentation. ^_^
 - [Hitchhiker's Guide](https://docs.python-guide.org/dev/virtualenvs/#virtualenvwrapper) for virtualenvwrapper
 - [virtualenvwrapper project directory management](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#project-directory-management)
 - [virtual environments](https://howchoo.com/g/nwewzjmzmjc/a-guide-to-python-virtual-environments-with-virtualenvwrapper)
+- Timmy Reilly's [Pip & Virtualenv Install On Windows](http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/)
