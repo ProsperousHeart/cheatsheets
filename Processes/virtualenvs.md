@@ -103,10 +103,10 @@ You can make a project, which creates the virtual environment, and also a projec
 
    The first time you run this, you will see a similar message:
    ```
-   (base) C:\Users\Kat\Documents\SOME_DIRECTORY>mkvirtualenv xlsxwriter-autofit0
+   (base) C:\Users\Kat\Documents\SOME_DIRECTORY>mkvirtualenv xlsxwriter-autofit
    C:\Users\Kat\Envs is not a directory, creating
    Using base prefix 'c:\\programdata\\anaconda3'
-   New python executable in C:\Users\Kat\Envs\xlsxwriter-autofit0\Scripts\python.exe
+   New python executable in C:\Users\Kat\Envs\xlsxwriter-autofit\Scripts\python.exe
    Installing setuptools, pip, wheel...
    done.
 
