@@ -10,12 +10,14 @@ Documentation. ^_^
 
 ### Downloads
 
-- [Jupyter Notebook](https://jupyter.org/) - more specifically [here](https://jupyter.org/install.html)
 - [Anaconda](https://www.anaconda.com/distribution/)
+- [Jupyter Notebook](https://jupyter.org/) - more specifically [here](https://jupyter.org/install.html)
+- [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/index.html)
 
 ### Environment Variables
 
 - [how to set an environment variable](https://stackoverflow.com/a/21301852/10474024)
+- Zax Rosenberg's [Python Virtual Environments On Windows](http://www.zaxrosenberg.com/python-virtual-environments-on-windows/)
 
 ### git
 
