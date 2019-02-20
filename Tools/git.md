@@ -227,3 +227,21 @@ You can get this info from running: `git log`
 Sometimes you get a long list of changes when running `git diff` or `git log`.
 
 So how do you quit? Just press: `q`
+
+# How To Ignore Files Or Folders
+
+Got this from [here](https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3).
+
+To ignore a file, set of files or folder you will need to add them to the `.gitignore` file.
+
+This needs to be in the **root** of your project folder.
+
+To specify a particular file: `FILENAME.extension`
+To specify all types of files:  `*.extension`
+To specify a folder & it's contents:  `FOLDERNAME\`
+
+When you add those lines to the file, they will no longer show up when running: `git status`
+
+However, if they were already part of the project?
+
+It doesn't remove them from there and they will not be ignored.

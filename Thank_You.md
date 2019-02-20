@@ -21,7 +21,7 @@ Documentation. ^_^
 - how to [check the difference between changes for a file](https://stackoverflow.com/questions/10039747/how-to-view-file-diff-in-git-before-commit) before or after a commit
 - how to [delete branch locally or on server](https://stackoverflow.com/a/2003515/10474024)
 - [how to clone all branches from GitHub repo](https://stackoverflow.com/a/72156/10474024)
-- how to [ignore](https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3)
+- how to [ignore files & folders](https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3) in git
 - [how to find remote info](https://stackoverflow.com/a/4089452/10474024)
 - [git diff](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/diffs) explanation
 - [git stash](https://git-scm.com/docs/git-stash) explanation
