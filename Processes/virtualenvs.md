@@ -131,9 +131,11 @@ You can activate your virtual project to work on things again by running: `worko
 
 To delete a virtual environment, run: `rmvirtualenv venv`
 
-To delete a virtual project, (I believe - couldn't find documentation on it) run: `rmproject venv`
+Not sure how to delete a virtual project, since the following doesn't work: `rmproject venv`
 
 Additional items can be found [here](https://howchoo.com/g/nwewzjmzmjc/a-guide-to-python-virtual-environments-with-virtualenvwrapper).
+
+**NOTE:**  If you delete a venv, you can recreate it and then tie it & it's project together in another folder.
 
 ## Usage - Duplicate A Virtual Environment
 
