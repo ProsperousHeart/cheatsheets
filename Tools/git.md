@@ -134,6 +134,8 @@ Just ru the following to remove all changes:  `git reset HEAD~`
 
 After you've added files to your staging, you now need to commit the changes.
 
+Be sure to [check out this styleguide](http://udacity.github.io/git-styleguide/) from Udacity.
+
 ## How Do I Commit My Code?
 
 Run this command:  `git commit`
