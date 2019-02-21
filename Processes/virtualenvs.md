@@ -4,6 +4,8 @@ The following steps come from [The Hitchhiker's Guide](https://docs.python-guide
 
 Assume all instructions are for python 3.x version.
 
+**NOTE** _pipenv_ and _virtualenv_ are indepenent of each other. I personally prefer _virtualenv_ because of how smooth it can be with virtualenvwrapper.
+
 ## [Pipenv](https://pipenv.readthedocs.io/en/latest/)
 
 1. Ensure python is installed by running this at command prompt or Anaconda:  `python --version`
