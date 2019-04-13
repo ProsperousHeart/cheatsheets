@@ -1,3 +1,5 @@
+<a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
+
 # How To Link To An Issue On GitHub In Your Commit Message
 
 As per [this response on StackOverflow](https://stackoverflow.com/a/6742691/10474024)...

@@ -1,8 +1,12 @@
+<a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
+
 # Pipenv & Virtual Environments
 
 The following steps come from [The Hitchhiker's Guide](https://docs.python-guide.org/dev/virtualenvs/).
 
 Assume all instructions are for python 3.x version.
+
+**NOTE** _pipenv_ and _virtualenv_ are indepenent of each other. I personally prefer _virtualenv_ because of how smooth it can be with virtualenvwrapper.
 
 ## [Pipenv](https://pipenv.readthedocs.io/en/latest/)
 

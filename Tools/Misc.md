@@ -1,3 +1,5 @@
+<a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
+
 # Why A Misc File?
 
 Cause there are some things that just don't need a file all to themselves.

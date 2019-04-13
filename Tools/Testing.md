@@ -1,3 +1,5 @@
+<a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
+
 Testing is something that too often goes over looked and is the best thing to ensure you do not have old bugs come back.
 
 Plus - it doesn't have to (and shouldn't) be manual. You can automate!

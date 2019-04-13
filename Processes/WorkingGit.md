@@ -1,3 +1,5 @@
+<a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
+
 When working with **git** there are some best practices.
 - always have a branch for a specific need (bug, feature, etc)
 - when done, delete branch on server **and** locally (you can always recreate)
