@@ -27,7 +27,11 @@ Have something to share? Please create an issue first and then follow the normal
 
 At the moment I am still working on this. But as it grows, the tree will begin to form. And you will be able to access whatever your heart desires & is available here.
 
-1. [Tools](https://github.com/ProsperousHeart/cheatsheets/tree/master/Tools)
+1. [Docs](Docs/README.MD)
+   - [CRISP-DM](Docs/CRISP-DM/README.md)
+2. [Processes](https://github.com/ProsperousHeart/cheatsheets/tree/master/Processes)
+   - [Working With Git](https://github.com/ProsperousHeart/cheatsheets/blob/master/Processes/WorkingGit.md)
+3. [Tools](https://github.com/ProsperousHeart/cheatsheets/tree/master/Tools)
    - [Anaconda](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Anaconda.md)
    - [git](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/git.md)
    - [Jupyter notebooks](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/JupyterNotebooks.md)
@@ -35,10 +39,8 @@ At the moment I am still working on this. But as it grows, the tree will begin t
    - [pip](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/pip.md)
    - [Testing](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/Testing.md)
    - [Virtual Environments](https://github.com/ProsperousHeart/cheatsheets/blob/master/Tools/VirtualEnvironments.md)
-2. [Processes](https://github.com/ProsperousHeart/cheatsheets/tree/master/Processes)
-   - [Working With Git](https://github.com/ProsperousHeart/cheatsheets/blob/master/Processes/WorkingGit.md)
-3. [README](https://github.com/ProsperousHeart/cheatsheets/blob/master/README.md)
-4. [Thank You](https://github.com/ProsperousHeart/cheatsheets/blob/master/Thank_You.md)
+4. [README](https://github.com/ProsperousHeart/cheatsheets/blob/master/README.md)
+5. [Thank You](https://github.com/ProsperousHeart/cheatsheets/blob/master/Thank_You.md)
 
 Happy Coding!
 - Kassandra from [Learn To Code Online](http://www.learntocodeonline.com)
