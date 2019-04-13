@@ -1,3 +1,5 @@
+<a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
+
 Sometimes you will come across error messages like:
 
 `ERROR: set environment variable PROJECT_HOME to the directory where projects are stored.`

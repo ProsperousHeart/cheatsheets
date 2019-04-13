@@ -1,3 +1,5 @@
+<a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
+
 # Git
 
 Whether through a training or via hands on experience, this section will provide clear shortcuts to using git efficiently.
