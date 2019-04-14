@@ -2,7 +2,7 @@
 
 # Explanation Of Docs
 
-Since we're in the [cheatsheets](../) portion of [my GitHub](https://github.com/ProsperousHeart), I decided to create a section for documentation templates.
+Since we're in the [cheatsheets](https://github.com/ProsperousHeart/cheatsheets) portion of [my GitHub](https://github.com/ProsperousHeart), I decided to create a section for documentation templates.
 
 The more I learn on my journey as a computer scientist / data scientist, the more I find it beneficial to simply just have an empty template for my different projects & documentation.
 
@@ -27,5 +27,5 @@ As a **process model**:
 By following this process, you are able to create a data mining model that fits your particulat needs.
 
 I have taken what I have learned & crafted my own blank template inside of this section. Including but not limited to:
-- [folder structure](CRISP-DM/README.MD) for future code projects
+- [folder structure](CRISP-DM) for future code projects
 - [fluid documentation](CRISP-DM/docs)
