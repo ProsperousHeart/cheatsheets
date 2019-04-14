@@ -17,6 +17,12 @@ TBD
 
 ## Business Problem Statement
 
+### The Problem
+
+TBD
+
+### The Challenge
+
 TBD
 
 ## Business Objectives
