@@ -8,7 +8,7 @@ This docs section will provide information on the planning, resources, needs, ti
 
 Each section (folder) is a [CRISP-DM](../README.md) phase.
 
-1. [Business Understanding](1_business_understanding/README.MD)
+1. [Business Understanding](1_business_understanding/README_business_understanding.MD)
 
 Business understanding documents the project objectives & requirements from a business perspective, the data mining definition, and a preliminary plan.
 
