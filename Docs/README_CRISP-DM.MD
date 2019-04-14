@@ -8,6 +8,10 @@ The more I learn on my journey as a computer scientist / data scientist, the mor
 
 Why reinvent the wheel, right?
 
+## KEEP IN MIND
+
+These documents are meant to be templates. So any information inside of the documents is meant more for guidance. Please be sure to replace the "Test data" with your own work.
+
 # Table Of Contents
 
 1. [CRISP-DM](CRISP-DM):  "Cross-Industry Standard Process for Data Mining"
