@@ -1,6 +1,6 @@
-<a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../../../../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
+<a href='https://www.learntocodeonline.com/'><img src="https://github.com/ProsperousHeart/cheatsheets/blob/master/Images/learn-to-code-online.png?raw=true"></img></a>
 
-# Cross-Skilling Business Understanding
+# PROJECTNAME Business Understanding
 
 1. [Business Objectives](1_Business_Objectives.MD)
 
