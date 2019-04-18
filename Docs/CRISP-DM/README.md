@@ -2,7 +2,7 @@
 
 # What Is CRSIP-DM?
 
-A brief explanation was provided [here](../README_CRISP-DM.MD#Table-Of-Contents)
+A brief explanation was provided [here](../README.MD#Table-Of-Contents)
 
 # How To Print This Documentation
 

@@ -204,6 +204,7 @@ This section will lay out information on :
 | :---: | :---: | :---: |
 | CI | Continuous Improvement | |
 | CRISP-DM | Cross Industry Standard Process for Data Mining | Industry standards for data analytic practitioners |
+| POC | Point Of Contact | |
 
 ### Project Specific
 

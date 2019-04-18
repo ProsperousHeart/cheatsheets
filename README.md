@@ -27,7 +27,7 @@ Have something to share? Please create an issue first and then follow the normal
 
 At the moment I am still working on this. But as it grows, the tree will begin to form. And you will be able to access whatever your heart desires & is available here.
 
-1. [Docs](Docs/README_CRISP-DM.MD)
+1. [Docs](Docs/README.MD)
    - [CRISP-DM](Docs/CRISP-DM/README.md)
 2. [Processes](https://github.com/ProsperousHeart/cheatsheets/tree/master/Processes)
    - [Working With Git](https://github.com/ProsperousHeart/cheatsheets/blob/master/Processes/WorkingGit.md)
