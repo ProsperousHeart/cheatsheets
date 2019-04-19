@@ -4,7 +4,7 @@
 
 - [Introduction](#Introduction)
 - [Business Problem](#Business-Problem)
-- [Analytics Strategy](#Analytics Strategy)
+- [Analytics Strategy](#Analytics-Strategy)
 - [Project Plan](#Project-Plan)
 - [Assessment of Tools and Techniques](#Assessment-of-Tools-and-Techniques)
 
