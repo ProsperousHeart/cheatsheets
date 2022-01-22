@@ -29,7 +29,7 @@ projectC>4.2, <5
 ProjectD~=1.2.3
 ```
 
-And they can et more complicated from there.
+And they can get more complicated from there.
 
 We'll just stick with some basics for now.
 
