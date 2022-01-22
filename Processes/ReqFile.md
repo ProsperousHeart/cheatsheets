@@ -66,6 +66,21 @@ There are 3 things to know about creating your own requirements file:
 2. you can specify versions using comparison operators - if version omitted, the latest version is installed
 3. multiple conditions can be specified by using a `,` to separate them:  `packageName >= 1.0, <=2.0`
 
+Here is what an example might look like:
+
+```
+##### Reqs Without Version Specifiers #####
+jinja2
+xlsxwriter
+beautifulsoup4
+
+##### With Version Specifiers #####
+docopt == 0.6.1             # Version Matching. Must be version 0.6.1
+keyring >= 4.1.1            # Minimum version 4.1.1
+coverage != 3.5             # Version Exclusion. Anything except version 3.5
+Mopidy-Dirble ~= 1.1        # Compatible release. Same as >= 1.1, == 1.*
+```
+
 # how to use a requirements file
 
 After you've created your [virtual environment](https://github.com/ProsperousHeart/cheatsheets/blob/master/Processes/virtualenvs.md#virtualenvwrapper), it's time to install your packages!
