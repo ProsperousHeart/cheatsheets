@@ -91,13 +91,21 @@ For fancier commands, check out the [original MD file](https://github.com/Prospe
 
 I will provide two options - and highly suggest the 2nd.
 
-### Standard
+### Standard - Base Python Install
 
 1. Create a venv: `mkvirtualenv VENVNAME`
 
    This creates the VENVNAME folder inside `~/Envs`.
 
 2. Work on the virtual environment: `workon VENVNAME`
+
+### Standard - Specific Python Install (Not Base)
+
+Maybe you have multiple python versions on your machine - what then?
+
+It's very simple. You will use this command instead:  `mkvirtualenv -p "\Folder Of\PythonVER\python.exe" VENVNAME`
+
+Unless you changed the name of the python executable, that's basically the gist. And you can still create a project!
 
 ### Alternative
 
