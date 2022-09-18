@@ -8,6 +8,11 @@ This means you need to set up your environment variables.
 
 [Here](http://www.zaxrosenberg.com/python-virtual-environments-on-windows/) is an INCREDIBLE step by step (and why) article on doing this.
 
+Basically, you will need the following in your **System Variables**:
+1. the **Scripts** folder added when you installed your python version
+2. the folder added when you installed new version
+3. whichever version you want used by default (which you can tell if you run `python --version`), ensure it is at the top
+
 # PowerShell Environment Variables
 
 After creating your profile in Windows PowerShell, it should look something like this:
