@@ -27,3 +27,5 @@ If you followed the above correctly, then the next phase would be:
 That's it! You can now call it by that new name to start an interpreter with the version ...
 
 Or for creation of a [new virtual environment](virtualenvs.md).
+
+If for some reason that doesn't work (cause it works for me at the time of this writing) then as per [this Stack Overflow](https://stackoverflow.com/a/69657896/10474024) you might need to add the copied version to the PATH.  But I didn't have to do that.
