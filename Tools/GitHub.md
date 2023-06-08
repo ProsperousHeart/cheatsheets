@@ -1,6 +1,8 @@
 <a href='https://www.learntocodeonline.com/'>![Learn To Code Online By Clicking Here](../Images/learn-to-code-online.png?raw=true "Learn To Code Online")</a>
 
-# How To Link To An Issue On GitHub In Your Commit Message
+# How To Link To An Issue
+
+## On GitHub In Your Commit Message
 
 As per [this response on StackOverflow](https://stackoverflow.com/a/6742691/10474024)...
 
@@ -25,7 +27,7 @@ Referencing and [closing issues](https://github.com/blog/1439-closing-issues-acr
 
 And [as per this](https://stackoverflow.com/a/1689670/10474024)...
 
-# Link And Close Issue In Commit
+## Link And Close Issue In Commit
 
 If you want to link to AND close an issue?
 
@@ -38,7 +40,7 @@ Learn more[here](http://github.com/blog/411-github-issue-tracker).
 You can also cross reference repositories:
 `githubuser/repository#xxx`
 
-# Examples
+## Additional Examples
 
 From [here](https://stackoverflow.com/a/40139298/10474024):
 ```
@@ -70,3 +72,19 @@ like this:
 Resolves: #123
 See also: #456, #789
 ```
+
+# Pull Requests (PRs)
+
+When completeing code reviews, you can check out pull requests locally via the information found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
+
+If not using GitHub's app, follow [this process](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally#modifying-an-inactive-pull-request-locally):
+
+1. locate the PR request number (ID) - it's right after the PR title
+
+2. navigate to your project folder on your local machine
+
+3. open git bash and run (where ID is from the PR & BRANCH_NAME is the branch the PR is to be merged to):  `git fetch origin pull/ID/head:BRANCH_NAME`
+
+4. switch to the "new branch"
+
+After making changes (if needed), you can push the new branch up via `git push origin BRANCH-NAME` and create a new PR with this branch.
