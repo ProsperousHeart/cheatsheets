@@ -88,3 +88,11 @@ If not using GitHub's app, follow [this process](https://docs.github.com/en/pull
 4. switch to the "new branch"
 
 After making changes (if needed), you can push the new branch up via `git push origin BRANCH-NAME` and create a new PR with this branch.
+
+## Got An Error?
+
+If you got an error similar to `fatal: couldn't find remote ref pull/49/head` then you may be trying to pull a PR from your **upstream** and not your **remote**.
+
+Below, you will see the steps I had to take for my own repo - a fork of an original that had a PR to it I wanted to pull to my local machine.
+
+![Screenshot of Git Bash](../Images/pull-PR-upstream.png?raw=true "screenshot of Git Bash")
