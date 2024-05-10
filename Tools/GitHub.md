@@ -19,6 +19,8 @@ With new [GitHub issues 2.0](https://github.com/blog/831-issues-2-0-the-next-gen
 `resolved #xxx`
 You can also substitute `#xxx` with `gh-xxx`.
 
+More on this [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword).
+
 Referencing and [closing issues](https://github.com/blog/1439-closing-issues-across-repositories) across repos also works:
 
   `fixes user/repo#xxx`
@@ -35,7 +37,7 @@ If you want to link to AND close an issue?
 `Closes GH-1.`
 `Closes gh-1.`
 
-Learn more[here](http://github.com/blog/411-github-issue-tracker).
+Learn more [here](http://github.com/blog/411-github-issue-tracker).
 
 You can also cross reference repositories:
 `githubuser/repository#xxx`
