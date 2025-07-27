@@ -38,7 +38,7 @@ Once you have your database set up, you will follow this process to connect from
 
 2. In the **Info** section, scroll down to the **Connections** section:
 
-    ![DB Connections info](/IMGs/render-connections.png)
+    ![DB Connections info](/Tools/IMGs/render-connections.png)
 
     You will need to utilize the following details:
     - port
@@ -54,17 +54,17 @@ Once you have your database set up, you will follow this process to connect from
 
 4. Right-click on **Servers** and choose **Register > Server...**
 
-    ![regsiter new server](/IMGs/register-server.png)
+    ![regsiter new server](/Tools/IMGs/register-server.png)
 
 5. Under the initial **General** tab, provide a new server name.
 
-    ![register server - general tab](/IMGs/reg-srvr-general.png)
+    ![register server - general tab](/Tools/IMGs/reg-srvr-general.png)
 
     You can add comments if you wish to help you remember what the server is for.
 
 6. Under the **Connection** tab you'll see a screen like this:
 
-    ![register server - connection tab](/IMGs/reg-srvr-connection.png)
+    ![register server - connection tab](/Tools/IMGs/reg-srvr-connection.png)
 
     You'll need to update the following:
 
@@ -80,7 +80,7 @@ Once you have your database set up, you will follow this process to connect from
 
 7. Once you have filled in this information and hit the **Save** button, it should connect to the database.
 
-    ![confirming server connected](/IMGs/connected-server.png)
+    ![confirming server connected](/Tools/IMGs/connected-server.png)
 
 # Additional Helpful Documentation
 
